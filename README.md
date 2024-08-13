@@ -1,5 +1,12 @@
 Movie Recommendation System
 
+Uyarı - Caution
+
+[TR] similarity.pkl dosyasının boyutu çok yüksek olduğu için github üzerinde artifacts dosyası yok. Haliyle movie_list.pkl ve similarity.pkl dosyaları da bulunmuyor. Kullanacak kişilerin kendilerinin bu dosyayı oluşturması gerekiyor.
+
+[EN] Since the similarity.pkl file is very large in size, there is no artifacts file on github. Therefore, there are no movie_list.pkl and similarity.pkl files either. The people who will use it need to create this file themselves.
+
+
 [TR] Film önerisi sistemi 3 farklı sayfa ve 3 farklı arama çubuğuna sahiptir. Show Recommendation butonu önerilen filmleri gösterir. 3 mikrofon butonu sesli aramalara izin verir. View Recommendation History butonu arama önerisi geçmişini gösterir. Sistemde Kayıt, Giriş ve Ana sayfalar vardır. Ayrıca öneri alınan filmlerin detaylarını ve similarity değerlerini de görebilirsiniz.
 
 [EN] The movie recommendation system has 3 different pages and 3 different search bars. The show Recommendation button shows recommended movies. 3 microphone buttons allow voice calls. The View Recommendation History button shows the search recommendation history. There are Registration, Login, and Home pages in the system. You can also see the details and similarity values ​​of the suggested movies.
